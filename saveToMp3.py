@@ -1,5 +1,4 @@
 from parser import getFull, getFullFromMp4
-from subprocess import call, Popen
 import os
 
 def save(mp4):
