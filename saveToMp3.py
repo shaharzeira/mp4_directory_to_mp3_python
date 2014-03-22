@@ -10,5 +10,3 @@ def printData(mp4, a):
     print "******************"
     print getFull(mp4)
     print getFullFromMp4(mp4)
-    print "******************"
-    print " ".join(a)
