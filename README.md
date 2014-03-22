@@ -1,10 +1,10 @@
 mp4_directory_to_mp3_python_linux
 =================================
 
-convert mp4 files in a directory to mp3 files
-It will optimize to to the best quality
-It is a direct convert mp4 -> mp3
-There are no middle convertion like to a mp4->wav->mp3 
+convert mp4 files in a directory to mp3 files.
+It will optimize to to the best quality.
+It is a direct convert mp4 -> mp3.
+There are no middle convertion like to a mp4->wav->mp3.
 It uses Variable bitrate for maximum quality
 
 Install
