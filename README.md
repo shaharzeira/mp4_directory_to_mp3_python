@@ -11,5 +11,5 @@ How to Run?
 python '/path/to/Main.py' '/path/to/mp4Directory'
 
 Output
-create a new directory that ends with _Converted_mp3_files in the same place
+creates a new directory that ends with _Converted_mp3_files in the same place
 of the mp4 files directory
