@@ -12,7 +12,7 @@ libmp3lame.so.0
 ffmpeg
 
 How to Run?
-python '/path/to/Main.py' '/path/to/YourVideoAndAudioDirectoryDirectory'
+python '/path/to/Main.py' '/path/to/YourVideoAndAudioDirectory'
 
 Output
 creates a new directory that ends with _Converted_mp3_files in the same place
